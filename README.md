@@ -1,2 +1,2 @@
 # voronoi
-Some matlab codes for a voronoi mesh
+Some simple matlab codes for a voronoi mesh
